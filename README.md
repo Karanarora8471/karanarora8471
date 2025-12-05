@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Karan Arora**
 
-### 🚀 Android Developer \| Flutter Developer \| Jetpack Compose Specialist
+### 🚀 Android Developer \| Flutter Developer 
 
 Welcome to my GitHub profile! I'm a passionate mobile app developer with
 hands-on experience in **Android (Java/Kotlin)**, **Flutter**, and
@@ -14,14 +14,13 @@ applications with a strong focus on performance and modern architecture.
 ### **📱 Mobile Development**
 
 -   **Android:** Kotlin, Java, Jetpack Compose, XML UI
--   **Flutter:** Dart, GetX, Provider, Riverpod
+-   **Flutter:** Dart, GetX (State Management )
 -   **Cross Platform:** Flutter apps for Android & iOS
 
 ### **🧰 Tools & Frameworks**
 
--   Android Studio, VS Code
--   Firebase, REST APIs, Retrofit, Alamofire
--   MediaPipe, CameraX
+-   Android Studio, VS Code ,Git (Version Control)
+-   Firebase, REST APIs, Retrofit
 -   Jetpack Components (ViewModel, LiveData, Room, Navigation)
 
 ### **⚙️ Architecture**
@@ -35,10 +34,7 @@ applications with a strong focus on performance and modern architecture.
 ## 💼 **What I Build**
 
 -   Real-time apps using MediaPipe & CameraX
--   Multi-module scalable Android apps
--   Flutter apps with clean UI & performance optimization
--   API-integrated apps with secure authentication (OAuth, AWS Cognito)
--   White-labeled apps with SSO & deep integrations
+
 
 ------------------------------------------------------------------------
 
@@ -55,9 +51,7 @@ More projects coming soon...
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Stats
 
-![Karan's GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=KaranAroraNetset&show_icons=true&theme=tokyonight)
 
 ![Top
