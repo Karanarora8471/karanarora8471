@@ -52,7 +52,6 @@ More projects coming soon...
 ------------------------------------------------------------------------
 
 
-Stats](https://github-readme-stats.vercel.app/api?username=KaranAroraNetset&show_icons=true&theme=tokyonight)
 
 ![Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranAroraNetset&layout=compact&theme=tokyonight)
@@ -64,8 +63,8 @@ Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaranAroraNetset&
 
 ## 🌐 Connect With Me
 
--   **LinkedIn:** \[Your LinkedIn Profile\]
--   **GitHub:** [KaranAroraNetset](https://github.com/KaranAroraNetset)
+-   **LinkedIn:** \(https://www.linkedin.com/in/karanarora8471)
+-   **GitHub:** (https://github.com/Karanarora8471))
 -   **Email:** karan.arora@netsetsoftware.com
 
 ------------------------------------------------------------------------
